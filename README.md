@@ -51,4 +51,3 @@ Este projeto tem como objetivo desenvolver um sistema para gerenciar a ocupaçã
 
 ## Licença
 
-Este projeto está licenciado sob a licença [Nome da licença] - veja o arquivo LICENSE para mais detalhes.
